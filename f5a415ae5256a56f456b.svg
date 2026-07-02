@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="100%" height="100%">
+  <!-- THE CLOUD (Center-Right Standalone Layer) -->
+  <path d="M48 42H26a7 7 0 0 1-5.5-11.3a7 7 0 0 1 9.5-2.2a10 10 0 0 1 17.5-.5A6 6 0 0 1 48 42z"
+        fill="#78909C"
+        stroke="#FFFFFF"
+        stroke-width="2.5"
+        stroke-linejoin="round" />
+
+  <!-- RAINDROP DOWNPOUR GRID (Uniform Tilted Droplets) -->
+  <g fill="#29B6F6" stroke="#FFFFFF" stroke-width="1.8" stroke-linejoin="round">
+    <!-- Row 1: Left Droplet -->
+    <path d="M19 46 C19 46, 17 49, 17 50.5 A 1.5 1.5 0 0 0 20 50.5 C20 49, 19 46, 19 46 Z" />
+
+    <!-- Row 1: Middle Droplet (Replaced Snowflake) -->
+    <path d="M31 47 C31 47, 29 50, 29 51.5 A 1.5 1.5 0 0 0 32 51.5 C32 50, 31 47, 31 47 Z" />
+
+    <!-- Row 1: Right Droplet -->
+    <path d="M43 46 C43 46, 41 49, 41 50.5 A 1.5 1.5 0 0 0 44 50.5 C44 49, 43 46, 43 46 Z" />
+          
+    <!-- Row 2: Lower Left Droplet (Replaced Snowflake) -->
+    <path d="M23 52 C23 52, 21 55, 21 56.5 A 1.5 1.5 0 0 0 24 56.5 C24 55, 23 52, 23 52 Z" />
+
+    <!-- Row 2: Lower Right Droplet -->
+    <path d="M35 52 C35 52, 33 55, 33 56.5 A 1.5 1.5 0 0 0 36 56.5 C36 55, 35 52, 35 52 Z" />
+  </g>
+</svg>
